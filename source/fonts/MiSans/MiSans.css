@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'MiSans';
+	src:
+		local('MiSans'),
+		url('MiSans-Thin.woff2') format('woff2'),
+		url('MiSans-Thin.woff') format('woff'),
+		url('MiSans-Thin.ttf') format('truetype');
+	font-weight: lighter;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MiSans';
+	src:
+		local('MiSans'),
+		url('MiSans-Regular.woff2') format('woff2'),
+		url('MiSans-Regular.woff') format('woff'),
+		url('MiSans-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MiSans';
+	src:
+		local('MiSans'),
+		url('MiSans-Bold.woff2') format('woff2'),
+		url('MiSans-Bold.woff') format('woff'),
+		url('MiSans-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-display: swap;
+	font-style: normal;
+}
