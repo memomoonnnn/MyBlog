@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'LINESeed-Bold';
+    src: url('/fonts/LINESeedJP_OTF_Eb.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LINESeed_Normal';
+    src: url('/fonts/LINESeedJP_OTF_Rg.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}

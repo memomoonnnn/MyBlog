@@ -1,0 +1,4 @@
+[submodule "themes/redefine"]
+	path = themes/redefine
+	url = https://github.com/memomoonnnn/hexo-theme-redefine_Custom.git
+	branch = my-style
